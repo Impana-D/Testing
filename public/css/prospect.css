@@ -1,0 +1,43 @@
+/* Page Background */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Card Styling */
+.prospect-card {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+/* Title Styling */
+.page-title {
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+/* Form Label */
+.form-label {
+    font-weight: 500;
+}
+
+/* Button Styling */
+.btn-next {
+    background-color: #0d6efd;
+    color: white;
+    font-weight: 500;
+    border-radius: 8px;
+    padding: 8px 20px;
+    transition: 0.3s;
+}
+
+.btn-next:hover {
+    background-color: #0b5ed7;
+    color: white;
+}
+
+/* Error Text */
+.text-danger {
+    font-size: 14px;
+}
